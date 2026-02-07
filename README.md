@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aastha Bansal</h1>
+<h3 align="center">Frontend Developer • UI Enthusiast • CSE Student</h3>
 
-<!--
-**bansalaasthaa/bansalaasthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bansalaasthaa&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+🎓 B.Tech Computer Science Engineering student  
+💻 Frontend Developer passionate about **clean UI & smooth UX**  
+🎨 I enjoy turning designs into **responsive, interactive web experiences**
+
+I’ve built projects ranging from **algorithm visualizations** to **AI-powered job recommendation systems**, and I love working with modern frontend tools to create polished interfaces.
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **Algorithm Visualizer** – Visualizing sorting algorithms interactively  
+- 🔹 **ResumeMatch** – AI-powered resume-based job recommendation system  
+- 🔹 **Custom Video Player** – Reusable JavaScript video player library  
+- 🔹 **Amplify Clone** – Responsive UI clone using HTML & SCSS  
+- 🔹 **Simone Clone** – Structured SCSS architecture website clone  
+- 🔹 **Coffee Website** – Modern responsive café website  
+- 🔹 **Tailwind Money Website** – Finance UI built using Tailwind CSS  
+
+👉 Explore all projects below ⬇️
+
+---
+
+## 🛠 Tech Stack
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,mysql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,flask" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bansalaasthaa&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansalaasthaa&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced React & Next.js
+- UI performance optimization
+- Scalable CSS & component architecture
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/bansalaasthaa">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aasthabansal4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
