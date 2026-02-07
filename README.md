@@ -13,8 +13,6 @@
 💻 Frontend Developer passionate about **clean UI & smooth UX**  
 🎨 I enjoy turning designs into **responsive, interactive web experiences**
 
-I’ve built projects ranging from **algorithm visualizations** to **AI-powered job recommendation systems**, and I love working with modern frontend tools to create polished interfaces.
-
 ---
 
 ## 🚀 Featured Projects
@@ -25,10 +23,7 @@ I’ve built projects ranging from **algorithm visualizations** to **AI-powered 
 - 🔹 **Amplify Clone** – Responsive UI clone using HTML & SCSS  
 - 🔹 **Simone Clone** – Structured SCSS architecture website clone  
 - 🔹 **Coffee Website** – Modern responsive café website  
-- 🔹 **Tailwind Money Website** – Finance UI built using Tailwind CSS  
-
-👉 Explore all projects below ⬇️
-
+- 🔹 **Tailwind Money Website** – Finance UI built using Tailwind CSS  and more...
 ---
 
 ## 🛠 Tech Stack
@@ -46,15 +41,6 @@ I’ve built projects ranging from **algorithm visualizations** to **AI-powered 
 ### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bansalaasthaa&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansalaasthaa&theme=tokyonight" height="165"/>
 </p>
 
 ---
